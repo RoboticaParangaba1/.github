@@ -25,7 +25,7 @@ Atualmente, a organização reúne 3 equipes do colégio, em diferentes categori
 - **Categoria: First Tech Challenge**
 - **Número: 32577**
 - **Descrição:**
-- **GitHub:**
+- **GitHub:** [Zenkai](https://github.com/zenkaiftc)
 
 ### FTC All Might #32576
 - **Categoria:** FIRST Tech Challenge
