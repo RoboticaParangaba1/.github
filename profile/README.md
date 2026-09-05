@@ -1,4 +1,4 @@
-# 🤖 Robótica da Parangaba
+# Robótica da Parangaba
 
 Ecossistema de robótica competitiva e educacional das equipes FIRST do colégio.
 
@@ -12,7 +12,7 @@ Cada equipe mantém sua própria identidade, categoria e projetos, mas todas faz
 
 ---
 
-## 🏆 Nossas equipes
+## Nossas equipes
 
 Atualmente, a organização reúne 3 equipes do colégio, em diferentes categorias da robótica FIRST.
 
@@ -27,14 +27,15 @@ Atualmente, a organização reúne 3 equipes do colégio, em diferentes categori
 - **Descrição:**
 - **GitHub:** [Zenkai](https://github.com/zenkaiftc)
 
-### FTC All Might #32576
+### FTC All Might
 - **Categoria:** FIRST Tech Challenge
+- **Número: 32576**
 - **Descrição:**
 - **GitHub:** [All Might](https://github.com/FTC-32576)
 
 ---
 
-## 🔧 Ecossistema
+## Ecossistema
 
 Dentro da Robótica da Parangaba, buscamos compartilhar entre as equipes:
 
@@ -49,7 +50,7 @@ A ideia central é simples: uma solução desenvolvida por uma equipe para resol
 
 ---
 
-## 📚 Projetos e tecnologias compartilhadas
+## Projetos e tecnologias compartilhadas
 
 Os repositórios da organização reúnem os projetos técnicos das equipes.
 
@@ -68,7 +69,7 @@ O PUC pode conter bibliotecas como:
 
 ---
 
-## 🤝 Colaboração
+## Colaboração
 
 A organização busca estimular:
 
@@ -81,13 +82,13 @@ A organização busca estimular:
 
 ---
 
-## 🌎 FIRST
+## FIRST
 
 As equipes que compõem a Robótica da Parangaba participam de programas da **FIRST**, organização internacional que promove a robótica competitiva como ferramenta de educação em ciência, tecnologia e engenharia. Fazer parte dessa cultura significa não apenas competir, mas também aprender, documentar e compartilhar conhecimento de forma contínua.
 
 ---
 
-## 🚀 Filosofia
+## Filosofia
 
 > **Construir juntos para ir além.**
 
@@ -95,7 +96,7 @@ O objetivo da Robótica da Parangaba não é apenas construir robôs, mas constr
 
 ---
 
-## 📂 Organização dos repositórios
+## Organização dos repositórios
 
 Os repositórios desta organização podem conter:
 
